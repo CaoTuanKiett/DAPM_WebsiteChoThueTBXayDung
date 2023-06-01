@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/entity/ThietBi_ThongKe.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/control/SearchControl.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/Detail.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/css/Home.css</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/dao/ThongKeDAO.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/control/HomeServlet.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/theothang.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/BieuDo/bieudodoanhthusanphamtheongay.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/control/GioHangServlet.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/entity/ThietBiNCC.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/Home.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/dao/ThietBiDAO.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/Menu.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/entity/Thietbi.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/Buy.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/MenuManager.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/context/DBContext.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/dao/DAO.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/theokhoangngay.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/hienthi.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/control/BuyControl.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/theongay.jsp</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/control/ThongKeController.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/control/InsertGioHang.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/src/java/control/ThongKe.java</file>
+            <file>file:/D:/CNTT_HK222/DoAnPhanMem/WebSiteChoThueThietBiXD/222DATN-Nhom16/Website_ChoThueTBXD/web/Cart.jsp</file>
+        </group>
+    </open-files>
+</project-private>
